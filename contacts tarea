@@ -1,0 +1,18 @@
+contacts.sh
+
+Menu 
+1- Crear
+2- Buscar
+3- Ayuda
+loop
+
+
+contacts.txt
+
+nombre
+apellido
+email
+tel
+
+
+usar readline
